@@ -29,7 +29,7 @@ public class AnotherWayOf2DArray {
 	
 	//I want  to see how many elements inside my 2 array
 		int elem2array=usa[1].length;		
-		System.out.println("# of elements in 1 array=" +elem2array);
+		System.out.println("# of elements in 2 array=" +elem2array);
 		
 		for (String[]state:usa) {
 			for (String city:state) {

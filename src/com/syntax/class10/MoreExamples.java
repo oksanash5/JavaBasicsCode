@@ -27,7 +27,7 @@ public class MoreExamples {
 		
 		System.out.println("all value using enhanced for loop");
 		/*
-		 * enhanced for loop uses variables to access element from an array
+		 * enhanced for loop uses vaariables to access element from an array
 		 * outer for loops -> iterates over 1D array
 		 * inner loop -> iterates over elements of each 1D
 		 */

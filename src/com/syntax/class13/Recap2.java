@@ -24,7 +24,7 @@ public class Recap2 {
   for (int i=0; i<str.length();i++) {
 	  if (str.charAt(i)=='e') {
 		  counter++;
-		  if (counter==4) {
+	//	  if (counter==4) {
 			  System.out.println(i);
 			  }
 		  }
@@ -35,4 +35,4 @@ public class Recap2 {
 	}
 
 }
-}
+//}

@@ -3,8 +3,8 @@ package com.syntax.class12;
 public class StringDemo1 {
 
 	public static void main(String[] args) {
-		String name=new String("Oleg");//proper way of creating an object from a calss
-		String name2="oleg"; // it's same as String name=new String("Oleg");
+		String name=new String("Oleg");//proper way of creating an object from a class
+		String name2="Oleg"; // it's same as String name=new String("Oleg");
 		// All the classes in Java can be treated as data types
 		//if a class is present inside the same package or if a class belong to java.lan packages
        name.length();
